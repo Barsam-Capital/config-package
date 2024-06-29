@@ -1,0 +1,20 @@
+{
+    "name": "barsam-capital/config-package",
+    "version": "1.0.0",
+    "description": "Associate files with Eloquent models",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "BarsamCapital\\ConfigPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mehdi Sharifi",
+            "email": "smmehdisharifi@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^8.3"
+    }
+}
