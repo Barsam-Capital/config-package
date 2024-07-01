@@ -1,6 +1,6 @@
 <?php
 
-namespace BarsamCapital\ConfigPackage\DTO;
+namespace BarsamCapital\ConfigPackage\Dto;
 
 class ValidatorDto
 {
